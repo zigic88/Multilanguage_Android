@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Multilanguage_Apps</string>
+    <string name="app_greeting">Hello World</string>
+
+    <string name="english">English</string>
+    <string name="indonesian">Indonesian</string>
+    <string name="malay">Malay</string>
+    <string name="german">German</string>
+
+</resources>
